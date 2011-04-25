@@ -1,0 +1,8 @@
+Author: Viswanath S aka viswanathgs <viswanathgs@gmail.com>
+
+A basic framework for an online two-player turn based game. 
+Performs pairing up of players with random opponents and allows players
+to make moves alternatively. Tested using a pseudo Nim game.
+
+Implemented this for the ChessMaster project. The chess interface is built
+on this framework.
